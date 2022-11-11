@@ -1,4 +1,4 @@
-# Alzheimer-Classifier
+# Alzheimer Classifier
 ## Introduction
 The goal of this model is to classify brain MRI images into 4 categories,  Non Demented, Very Mild Demented, , Mild Demented and Moderate Demented.
 ## Dataset
