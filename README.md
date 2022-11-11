@@ -8,15 +8,19 @@ https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
 The following libraries were used to create the model:
 
 <b>Tensorflow</b>
+
 Used to import dataset, perform data augmentation, create model and make predictions
 
 <b>Matplotlib</b>
+
 Used for data visualization
 
 <b>Numpy</b>
+
 Used to help make prediction
 
 <b>OpenCV</b>
+
 used to import images for predictions
 
 ## Note
