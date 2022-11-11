@@ -21,7 +21,7 @@ Used to help make prediction
 
 <b>OpenCV</b>
 
-used to import images for predictions
+Used to import images for predictions
 
 ## Note
 - The Images located outside of the directories (Non_Demented_Test, Very_Mild_Demented_Test, Mild_Demented, and Modern_Demented) are there for testing purposes in order to be used as testing data. The images were pulled from the validation section of the dataset.
